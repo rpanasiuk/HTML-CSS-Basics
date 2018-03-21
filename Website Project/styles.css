@@ -78,3 +78,16 @@ footer nav a:link, footer nav a:visited {
 footer nav a:hover {
 	color: black;
 }
+td, th {
+	border: 1px solid black;	
+	width: 20%;
+	text-align: center;
+	padding: 5px;
+}
+table {
+	border-collapse: collapse;
+}
+#capt-drink {
+	margin-bottom: 10px;
+	font-size: 150%;
+}
